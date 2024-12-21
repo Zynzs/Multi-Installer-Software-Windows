@@ -23,11 +23,6 @@ multi-installer-software
 - Ensure you have the necessary permissions to execute the installation scripts.
 - Follow the prompts during the installation process for a smooth setup.
 
-## Prerequisites
-
-- Ensure that your system meets the requirements for the software being installed.
-- For Linux, you may need to install additional packages depending on your distribution.
-
 ## Contributing
 
 Feel free to submit issues or pull requests to improve the project. Your contributions are welcome!
